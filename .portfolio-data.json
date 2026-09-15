@@ -1,0 +1,96 @@
+{
+  "site": {
+    "name": "Fairuz Dzikri Harofi",
+    "email": "faizsjawa@gmail.com",
+    "availability": "",
+    "availabilityNote": "Remote Worldwide",
+    "location": "Based in Pekanbaru"
+  },
+  "navLinks": [
+    {
+      "href": "#about",
+      "label": "About"
+    },
+    {
+      "href": "#project",
+      "label": "Project"
+    },
+    {
+      "href": "#services",
+      "label": "Services"
+    },
+    {
+      "href": "#testimonials",
+      "label": "Testimonials"
+    },
+    {
+      "href": "#contact",
+      "label": "Contact"
+    }
+  ],
+  "hero": {
+    "name": "Nama Saya",
+    "headlinePrefix": "I build",
+    "rotatingWords": [
+      "lively",
+      "useful",
+      "fast",
+      "delightful"
+    ],
+    "subtext": "Front-end engineer crafting thoughtful products with React, TypeScript and Motion.",
+    "primaryCta": {
+      "href": "#project",
+      "label": "View Project"
+    },
+    "secondaryCta": {
+      "href": "#about",
+      "label": "About Me"
+    }
+  },
+  "stack": [
+    {
+      "name": "HTML",
+      "slug": "html5"
+    },
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Js",
+      "slug": "javascript"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "mysql",
+      "slug": "mysql"
+    }
+  ],
+  "roles": [],
+  "services": [],
+  "projects": [],
+  "testimonials": [],
+  "socials": [
+    {
+      "href": "#",
+      "slug": "instagram",
+      "label": "Instagram"
+    },
+    {
+      "label": "Github",
+      "href": "https://github.com/FaizHarofi",
+      "slug": "github",
+      "color": ""
+    }
+  ],
+  "about": {
+    "paragraphs": [
+      "I don't just write code. I design and build digital experiences that feel fast, intuitive and alive, from the first wireframe to the final polish.",
+      "Based in Jakarta and working with teams worldwide, I turn complex problems into clean interfaces with React and TypeScript, and I treat motion as part of the interface rather than decoration on top of it."
+    ]
+  },
+  "career": []
+}
